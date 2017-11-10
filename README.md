@@ -6,6 +6,6 @@ HorizontalScroll Menu
 
 **DEMO YOUTUBE:** https://www.youtube.com/watch?v=ZxbMZJLl1xg
 
-* Create Menu Using HorizontalScrollMenu.
+* Create Menu Using HorizontalScrollView.
 * Add listener for each image.
 * Click image then Fragment Page changed.
