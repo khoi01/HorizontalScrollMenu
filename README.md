@@ -9,3 +9,5 @@ HorizontalScroll Menu
 * Create Menu Using HorizontalScrollView.
 * Add listener for each image.
 * Click image then Fragment Page changed.
+
+**Installation Link Android Studio:** https://developer.android.com/studio
